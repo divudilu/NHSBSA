@@ -12,11 +12,11 @@ Cucumber feature and Natural plugins from Eclipse marketplace
 ###################################
 How to run the BDD Framework
 
-Download the CucumberBDDFramework folder from GitHub to your local machine.
+Download/Clone the CucumberBBD folder from GitHub to your local machine.
 
 Right click pom.xml and RunAs Maven test
 
-From commandline ==>Go the CucumberBDDFramework folder and run mvn clean test
+From commandline ==>Go the CucumberBBD folder and run mvn clean test
 
 ###############################
 Results/Reports
